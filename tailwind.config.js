@@ -16,6 +16,8 @@ export const theme = {
       darker2: "",
       fontLighter: "#ffffff",
       fontDarker: "#000000",
+      whatsappButton: "#075e54",
+      primary: "#CAB084",
     },
     fontFamily: {
       mainFont: ["EB Garamond", "serif"],

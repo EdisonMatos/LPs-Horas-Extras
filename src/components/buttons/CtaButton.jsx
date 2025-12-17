@@ -8,8 +8,8 @@ export default function CtaButton({
   reflexAnimation = true,
 }) {
   const themes = {
-    light: "bg-lighter text-fontLighter ",
-    dark: "bg-darker text-fontLighter",
+    light: "bg-whatsappButton text-fontLighter ",
+    dark: "bg-whatsappButton text-fontLighter",
   };
 
   const shineThemes = {
@@ -32,8 +32,8 @@ export default function CtaButton({
           items-center
           justify-center
           ${colors} 
-          font-normal font-secondFont px-6 py-3 rounded-lg text-lg 
-          transition-all hover:scale-105 shadow-lg gap-3 text-paragraph4
+          font-normal font-secondFont px-6 py-4 rounded-full text-[12px] phone2:text-sm phone3:text-[16px] lg:text-lg
+          transition-all hover:scale-105 shadow-lg gap-3 
           min-w-[10px] 
           text-center
         `}

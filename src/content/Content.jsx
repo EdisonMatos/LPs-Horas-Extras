@@ -22,15 +22,16 @@ const content = {
       logo: imgLogo,
     },
     texts: {
-      etiqueta: "Advogado Tributarista em São Paulo - SP",
+      etiqueta:
+        "Advogada Trabalhista Especialista em Rescisões e Tempos de Trabalho | São Paulo - SP",
       titulo: {
-        antes: "Isenção e Restituição de",
-        palavraFocada: "Imposto de Renda",
-        depois: "para Doenças Graves",
+        antes: "Foi",
+        palavraFocada: "demitido(a)",
+        depois: "e sente que não recebeu as verbas rescisórias que deveria?",
       },
       subtitulo:
         "Aposentados e pensionistas com doença grave podem parar de pagar IR e ainda receber os valores dos últimos 5 anos.",
-      labelBotaoPrincial: "Entre em Contato",
+      labelBotaoPrincial: "Quero receber meus direitos agora",
       labelBotaoSecundario: "Agendar Horário",
     },
   },
