@@ -81,7 +81,7 @@ export default function Hero({ imagemFocadaBackground, colorMode }) {
             >
               ⚠️ Você tem direitos a receber se:
             </p>
-            <ul className="gap-2 flex flex-col text-[12px] phone2:text-[14px] phone3:text-[16px] lg:text-[18px]">
+            <ul className="gap-1 flex flex-col text-[12px] phone2:text-[14px] phone3:text-[16px] lg:text-[18px]">
               <li>✓ Você trabalhava em mais de uma função</li>
               <li>✓ Não recebia todas as horas extras</li>
               <li>✓ Trabalhou período sem carteira assinada</li>
